@@ -6,4 +6,4 @@ An illustrated Victorian mystery in which Sherlock Holmes and Phileas Fogg cross
 - [Book 2: The Cable (1887)](https://az9713.github.io/victorian-tale-collection/the-cable.html)
 - [Development Journey: how the human writer steered the stories](https://az9713.github.io/victorian-tale-collection/development-journey.html)
 
-The stories were written in partnership between a human writer and an AI drafting assistant. The illustrations were created with GPT Image2.
+The stories were created by Grok Bots under the steering of a human writer. The illustrations were created with GPT Image2.
